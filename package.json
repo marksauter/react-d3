@@ -1,7 +1,7 @@
 {
-  "name": "pure-react-boilerplate",
+  "name": "react-d3",
   "version": "0.0.1",
-  "description": "A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.",
+  "description": "example project with react and d3",
   "scripts": {
     "clean": "rimraf build",
     "build:webpack": "webpack --config webpack.config.prod.js",

@@ -1,1 +1,1 @@
-# React Redux Fela Router Boilerplate
+# Example React D3 Project
